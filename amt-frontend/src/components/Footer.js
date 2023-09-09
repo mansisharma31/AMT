@@ -20,7 +20,8 @@ const Footer = () => {
                     <ul>
                         <li style={{fontSize:'1.2rem'}}><a href="www.linkedin.com/in/mansi-sharma-aaa4b8229" target="_blank">Mansi's Linkedin</a></li>
                         <li style={{fontSize:'1.2rem'}}><a href="www.linkedin.com/in/tanishq-sadija-64b1bb24a" target="_blank">Tanishq's Linkedin</a></li>
-                        <li style={{fontSize:'1.2rem'}}><a href="github.com/mansisharma31" target="_blank">Github</a></li>
+                        <li style={{fontSize:'1.2rem'}}><a href="github.com/mansisharma31" target="_blank">Mansi's Github</a></li>
+                        <li style={{fontSize:'1.2rem'}}><a href="github.com/Tani-ishq" target="_blank">Tanishq's Github</a></li>
                         
                     </ul>
                 </div>
